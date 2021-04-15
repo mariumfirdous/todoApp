@@ -1,0 +1,9 @@
+.deleteUpdateBtn{
+  margin: 4px;
+  padding:0;
+}
+
+.completedStatus{
+  text-decoration: line-through;
+}
+
